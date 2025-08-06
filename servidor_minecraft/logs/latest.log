@@ -138,3 +138,22 @@
 [03:06:31] [User Authenticator #1/INFO]: UUID of player jhonsts35 is 1ce95f52-762a-4ef8-aed3-a09ca6b4004c
 [03:06:32] [Server thread/INFO]: jhonsts35 joined the game
 [03:06:32] [Server thread/INFO]: jhonsts35[/127.2.177.208:53987] logged in with entity id 757 at ([world]-111.9292938540482, 71.0, 31.78849647379323)
+[03:12:00] [Server thread/INFO]: jhonsts35 issued server command: /tp .Neuvillette4664 jhonsts35
+[03:12:00] [Server thread/INFO]: [jhonsts35: Teleported .Neuvillette4664 to jhonsts35]
+[03:12:00] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -34.11292926279454,5.0,-52.91722469559036
+[03:12:00] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -34.11292926279454,5.0,-52.91722469559036
+[03:12:00] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -34.11292926279454,5.0,-52.91722469559036
+[03:12:00] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -34.11292926279454,5.0,-52.91722469559036
+[03:12:00] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -34.11292926279454,5.0,-52.91722469559036
+[03:12:00] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -34.11292926279454,5.0,-52.91722469559036
+[03:12:06] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio
+[03:13:17] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio NACO
+[03:14:41] [Async Chat Thread - #2/INFO]: <jhonsts35> ya vi te saco
+[03:14:51] [Async Chat Thread - #2/INFO]: <jhonsts35> mandame cap de lo que te sale
+[03:14:55] [Async Chat Thread - #2/INFO]: [Not Secure] <.Neuvillette4664> ya me desconecto
+[03:14:57] [Async Chat Thread - #2/INFO]: [Not Secure] <.Neuvillette4664> jaja
+[03:15:03] [Async Chat Thread - #3/INFO]: [Not Secure] <.Neuvillette4664> al rato vengo voy a salir
+[03:15:06] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Neuvillette4664 has disconnected from the Java server because of Bedrock client disconnected
+[03:15:06] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Neuvillette4664 disconnected
+[03:15:06] [Server thread/INFO]: .Neuvillette4664 lost connection: Disconnected
+[03:15:06] [Server thread/INFO]: .Neuvillette4664 left the game

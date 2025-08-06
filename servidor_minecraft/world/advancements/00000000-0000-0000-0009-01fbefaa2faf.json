@@ -8,7 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-08-06 02:36:03 +0000",
-      "minecraft:forest": "2025-08-06 02:22:22 +0000"
+      "minecraft:forest": "2025-08-06 02:22:22 +0000",
+      "minecraft:taiga": "2025-08-06 03:12:49 +0000"
     },
     "done": false
   },
@@ -20,7 +21,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-08-06 02:28:51 +0000"
+      "minecraft:spider": "2025-08-06 02:28:51 +0000",
+      "minecraft:zombie": "2025-08-06 03:11:13 +0000"
     },
     "done": false
   },
@@ -135,6 +137,60 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-06 02:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-06 03:11:37 +0000"
     },
     "done": true
   },
