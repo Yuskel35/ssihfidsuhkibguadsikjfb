@@ -1,137 +1,140 @@
-[02:41:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[02:41:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[02:41:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:41:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[02:41:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[03:01:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:01:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[03:01:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:01:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[03:01:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - Geyser-Spigot (2.8.3-SNAPSHOT), OpenAudioMc (6.10.14), ViaBackwards (5.4.2), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
-[02:41:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:41:59] [ServerMain/INFO]: Loaded 1290 recipes
-[02:41:59] [ServerMain/INFO]: Loaded 1399 advancements
-[02:41:59] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:41:59] [Server thread/INFO]: Loading properties
-[02:41:59] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:42:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:42:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:42:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:42:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:42:03] [Server thread/INFO]: Default game type: SURVIVAL
-[02:42:03] [Server thread/INFO]: Generating keypair
-[02:42:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:42:03] [Server thread/INFO]: Using epoll channel type
-[02:42:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:42:03] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[02:42:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[02:42:05] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[02:42:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:42:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:42:11] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[02:42:11] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[02:42:13] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[02:42:16] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:42:16] [Server thread/INFO]: [floodgate] Took 2,788ms to boot Floodgate
-[02:42:16] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
-[02:42:16] [Server thread/INFO]: [OpenAudioMc] Loading server plugin OpenAudioMc v6.10.14
-[02:42:16] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
-[02:42:19] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:42:19] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:42:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:42:19] [Server thread/INFO]: Preparing level "world"
-[02:42:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:42:22] [Server thread/INFO]: Time elapsed: 2151 ms
-[02:42:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:42:22] [Server thread/INFO]: Time elapsed: 422 ms
-[02:42:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:42:22] [Server thread/INFO]: Time elapsed: 404 ms
-[02:42:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[02:42:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:42:23] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[02:42:25] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
-[02:42:25] [Server thread/INFO]: [OpenAudioMc] Enabling OpenAudioMc v6.10.14
-[02:42:25] [Server thread/INFO]: [OpenAudioMc] [info] Starting OpenAudioMc, build 1549 by Mats
-[02:42:25] [Server thread/INFO]: [OpenAudioMc] [info] Using the main config file..
-[02:42:25] [Server thread/INFO]: [OpenAudioMc] [info] Starting configuration module
-[02:42:25] [Server thread/INFO]: [OpenAudioMc] [info] Using the main config file..
-[02:42:25] [Server thread/INFO]: [OpenAudioMc] [info] Starting configuration module
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Detected md_5 chat support, using default user adapter
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Skipped 46/46 migrations.
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] ModuleLoaderService: Loading modules from /workspaces/ssihfidsuhkibguadsikjfb/servidor_minecraft/plugins/OpenAudioMc/modules
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Using networking class com.craftmend.openaudiomc.generic.networking.DefaultNetworkingService
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Initializing connection service...
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Starting authentication module
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] This server already has an account, skipping sign up.
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Adding spigot tables
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Alias
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (alias<->Alias.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for ClientDataStore
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for MojangProfile
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for RegionProperties
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Speaker
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for StoredWorldChunk
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for TimedRegionProperties
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (timed_region_properties<->TimedRegionProperties.java)
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for MediaRule
-[02:42:26] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (media_rule<->MediaRule.java)
-[02:42:27] [Server thread/INFO]: [OpenAudioMc] [info] Initializing account details
-[02:42:31] [Server thread/INFO]: [OpenAudioMc] [info] The server is empty! ignoring voice chat.
-[02:42:31] [Server thread/INFO]: [OpenAudioMc] [info] Loading aliases...
-[02:42:31] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 0 aliases
-[02:42:31] [Server thread/INFO]: [OpenAudioMc] [info] Enabling the 1.13 speaker system
-[02:42:31] [Server thread/INFO]: [OpenAudioMc] [info] Starting redstone speaker tick task with interval 5 ticks
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Playlist
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (playlists<->Playlist.java)
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for PlaylistEntry
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (playlist_entries<->PlaylistEntry.java)
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Purged 1 stale media chunks from database.
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 0 media chunks from file.
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Loading static voice channels..
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: survival
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: off-topic
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: staff-chat
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: admin-chat
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 4 static voice channels
-[02:42:32] [Server thread/INFO]: [OpenAudioMc] [info] Starting and loading took 26938MS
-[02:42:32] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
-[02:42:38] [Server thread/INFO]: [spark] Starting background profiler...
-[02:42:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:42:38] [Server thread/INFO]: [Geyser-Spigot] 
-[02:42:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b902 (git-master-a41cc9e)
-[02:42:38] [Server thread/INFO]: [Geyser-Spigot] 
-[02:42:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:42:47] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 4152
-[02:42:47] [Server thread/INFO]: [Geyser-Spigot] Done (9.162s)! Run /geyser help for help!
-[02:42:48] [Server thread/INFO]: Done preparing level "world" (29.412s)
-[02:42:48] [Server thread/INFO]: Running delayed init tasks
-[02:42:48] [Server thread/INFO]: Done (62.443s)! For help, type "help"
-[02:42:48] [Server thread/INFO]: Timings Reset
-[02:42:48] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:42:48] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
-[02:43:11] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Neuvillette4664
-[02:43:11] [localSession-7-2/INFO]: [Geyser-Spigot] Neuvillette4664 (logged in as: Neuvillette4664) has connected to the Java server
-[02:43:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Neuvillette4664 joined (UUID: 00000000-0000-0000-0009-01fbefaa2faf)
-[02:43:12] [Server thread/INFO]: .Neuvillette4664 joined the game
-[02:43:13] [Server thread/INFO]: .Neuvillette4664[/127.187.188.19:0] logged in with entity id 68 at ([world]-73.63409, 71.0, 19.216068)
-[02:43:19] [Craft Scheduler Thread - 5 - OpenAudioMc/INFO]: [OpenAudioMc] [info] Attempting to login to voice chat...
-[02:43:19] [OaVoiceWorker/INFO]: [OpenAudioMc] [info] Voice chat connected!
-[02:43:21] [Server thread/INFO]: .Neuvillette4664 issued server command: /oa aceptar
-[02:43:37] [Server thread/INFO]: .Neuvillette4664 issued server command: /openaudiomc enlace
-[02:44:20] [Server thread/INFO]: .Neuvillette4664 issued server command: /openaudiomc
-[02:44:58] [Server thread/INFO]: .Neuvillette4664 issued server command: /openaudiomc enlace
-[02:45:14] [Server thread/INFO]: .Neuvillette4664 issued server command: /openaudiomc play
-[02:46:10] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio NABE
-[02:47:08] [User Authenticator #0/INFO]: UUID of player jhonsts35 is 1ce95f52-762a-4ef8-aed3-a09ca6b4004c
-[02:47:09] [Server thread/INFO]: jhonsts35 joined the game
-[02:47:09] [Server thread/INFO]: jhonsts35[/127.2.177.208:42017] logged in with entity id 598 at ([world]-100.5, 65.0, -7.5)
-[02:47:56] [Server thread/INFO]: jhonsts35 issued server command: /audio MOHA
-[02:49:38] [Async Chat Thread - #1/INFO]: <jhonsts35> si te escucho
-[02:49:44] [Async Chat Thread - #1/INFO]: <jhonsts35> tu ami ?
-[02:50:17] [Async Chat Thread - #2/INFO]: [Not Secure] <.Neuvillette4664> te muteaste??
-[02:50:26] [Async Chat Thread - #2/INFO]: <jhonsts35> no
-[02:50:41] [Async Chat Thread - #1/INFO]: <jhonsts35> estooy hablando ahora
-[02:51:08] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio QUKE
-[02:51:15] [Async Chat Thread - #2/INFO]: <jhonsts35> era mi internet
-[02:51:26] [Async Chat Thread - #1/INFO]: [Not Secure] <.Neuvillette4664> a
+[03:01:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:01:17] [ServerMain/INFO]: Loaded 1290 recipes
+[03:01:18] [ServerMain/INFO]: Loaded 1399 advancements
+[03:01:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:01:18] [Server thread/INFO]: Loading properties
+[03:01:18] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:01:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:01:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:01:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:01:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:01:21] [Server thread/INFO]: Default game type: SURVIVAL
+[03:01:21] [Server thread/INFO]: Generating keypair
+[03:01:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:01:21] [Server thread/INFO]: Using epoll channel type
+[03:01:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:01:21] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[03:01:24] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[03:01:24] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[03:01:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:01:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:01:29] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:01:29] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:01:31] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[03:01:34] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:01:34] [Server thread/INFO]: [floodgate] Took 2,785ms to boot Floodgate
+[03:01:34] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[03:01:34] [Server thread/INFO]: [OpenAudioMc] Loading server plugin OpenAudioMc v6.10.14
+[03:01:34] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[03:01:37] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:01:37] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:01:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:01:37] [Server thread/INFO]: Preparing level "world"
+[03:01:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:01:40] [Server thread/INFO]: Time elapsed: 2191 ms
+[03:01:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:01:40] [Server thread/INFO]: Time elapsed: 452 ms
+[03:01:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:01:40] [Server thread/INFO]: Time elapsed: 357 ms
+[03:01:40] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[03:01:40] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[03:01:41] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[03:01:43] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] Enabling OpenAudioMc v6.10.14
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Starting OpenAudioMc, build 1549 by Mats
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Using the main config file..
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Starting configuration module
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Using the main config file..
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Starting configuration module
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Detected md_5 chat support, using default user adapter
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Skipped 46/46 migrations.
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] ModuleLoaderService: Loading modules from /workspaces/ssihfidsuhkibguadsikjfb/servidor_minecraft/plugins/OpenAudioMc/modules
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Using networking class com.craftmend.openaudiomc.generic.networking.DefaultNetworkingService
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Initializing connection service...
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] Starting authentication module
+[03:01:43] [Server thread/INFO]: [OpenAudioMc] [info] This server already has an account, skipping sign up.
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Adding spigot tables
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Alias
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (alias<->Alias.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for ClientDataStore
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for MojangProfile
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for RegionProperties
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Speaker
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for StoredWorldChunk
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for TimedRegionProperties
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (timed_region_properties<->TimedRegionProperties.java)
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for MediaRule
+[03:01:44] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (media_rule<->MediaRule.java)
+[03:01:45] [Server thread/INFO]: [OpenAudioMc] [info] Initializing account details
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] The server is empty! ignoring voice chat.
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Loading aliases...
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 0 aliases
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Enabling the 1.13 speaker system
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Starting redstone speaker tick task with interval 5 ticks
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Playlist
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (playlists<->Playlist.java)
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for PlaylistEntry
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (playlist_entries<->PlaylistEntry.java)
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Purged 1 stale media chunks from database.
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 0 media chunks from file.
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Loading static voice channels..
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: survival
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: off-topic
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: staff-chat
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: admin-chat
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 4 static voice channels
+[03:01:49] [Server thread/INFO]: [OpenAudioMc] [info] Starting and loading took 25597MS
+[03:01:49] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[03:01:54] [Server thread/INFO]: [spark] Starting background profiler...
+[03:01:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:01:54] [Server thread/INFO]: [Geyser-Spigot] 
+[03:01:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b902 (git-master-a41cc9e)
+[03:01:54] [Server thread/INFO]: [Geyser-Spigot] 
+[03:01:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:02:03] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 4152
+[03:02:04] [Server thread/INFO]: [Geyser-Spigot] Done (9.107s)! Run /geyser help for help!
+[03:02:04] [Server thread/INFO]: Done preparing level "world" (27.408s)
+[03:02:04] [Server thread/INFO]: Running delayed init tasks
+[03:02:04] [Server thread/INFO]: Done (59.005s)! For help, type "help"
+[03:02:04] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:02:04] [Server thread/INFO]: Timings Reset
+[03:02:04] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[03:02:24] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Neuvillette4664
+[03:02:24] [localSession-7-2/INFO]: [Geyser-Spigot] Neuvillette4664 (logged in as: Neuvillette4664) has connected to the Java server
+[03:02:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Neuvillette4664 joined (UUID: 00000000-0000-0000-0009-01fbefaa2faf)
+[03:02:26] [Server thread/INFO]: .Neuvillette4664 joined the game
+[03:02:26] [Server thread/INFO]: .Neuvillette4664[/127.187.188.19:0] logged in with entity id 80 at ([world]-97.69999, 60.0, -16.325413)
+[03:02:33] [Craft Scheduler Thread - 6 - OpenAudioMc/INFO]: [OpenAudioMc] [info] Attempting to login to voice chat...
+[03:02:34] [OaVoiceWorker/INFO]: [OpenAudioMc] [info] Voice chat connected!
+[03:02:45] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio BAHA
+[03:03:09] [User Authenticator #0/INFO]: UUID of player jhonsts35 is 1ce95f52-762a-4ef8-aed3-a09ca6b4004c
+[03:03:10] [Server thread/INFO]: jhonsts35 joined the game
+[03:03:10] [Server thread/INFO]: jhonsts35[/127.2.177.208:34203] logged in with entity id 288 at ([world]-61.05781798662543, 62.0, -40.92868854582469)
+[03:03:32] [Server thread/INFO]: jhonsts35 was slain by Zombie
+[03:03:43] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio BAHA
+[03:04:03] [Server thread/INFO]: .Neuvillette4664 issued server command: /audio XAXE
+[03:04:33] [Server thread/INFO]: jhonsts35 issued server command: /audio
+[03:05:26] [Server thread/INFO]: Made jhonsts35 a server operator
+[03:05:39] [Server thread/INFO]: jhonsts35 issued server command: /tp .Neuvillette4664 jhonsts35
+[03:05:39] [Server thread/INFO]: [jhonsts35: Teleported .Neuvillette4664 to jhonsts35]
+[03:05:39] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -16.120341051519432,5.0,49.397953481101254
+[03:05:39] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -16.120341051519432,5.0,49.397953481101254
+[03:05:39] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -16.120341051519432,5.0,49.397953481101254
+[03:05:39] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -16.120341051519432,5.0,49.397953481101254
+[03:05:39] [Server thread/WARN]: .Neuvillette4664 moved too quickly! -16.120341051519432,5.0,49.397953481101254
+[03:06:29] [Server thread/INFO]: jhonsts35 lost connection: Disconnected
+[03:06:29] [Server thread/INFO]: jhonsts35 left the game
+[03:06:31] [User Authenticator #1/INFO]: UUID of player jhonsts35 is 1ce95f52-762a-4ef8-aed3-a09ca6b4004c
+[03:06:32] [Server thread/INFO]: jhonsts35 joined the game
+[03:06:32] [Server thread/INFO]: jhonsts35[/127.2.177.208:53987] logged in with entity id 757 at ([world]-111.9292938540482, 71.0, 31.78849647379323)
